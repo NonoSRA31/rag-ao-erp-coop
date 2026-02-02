@@ -1,0 +1,19 @@
+# Environnement Python
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Fichiers secrets
+.env
+
+# Base de données locale
+rag.db
+
+# IDE / éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

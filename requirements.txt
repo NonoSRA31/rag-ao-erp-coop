@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pyyaml
+openai
+faiss-cpu
+numpy
+sqlalchemy
