@@ -1,4 +1,4 @@
-STRUCTURE DE RÉPONSE OBLIGATOIRE
+﻿STRUCTURE DE RÉPONSE OBLIGATOIRE
 
 1. Enjeu métier
 Décrire l’enjeu fonctionnel et organisationnel tel qu’il ressort
@@ -25,4 +25,4 @@ RÈGLES IMPÉRATIVES
 - Ne jamais inventer de fonctionnalité
 - Ne jamais supposer des délais ou des coûts
 - Ne jamais introduire d’éléments non présents dans les données fournies
-- Toujours rester co
+- Toujours rester compréhensible par un décideur métier
